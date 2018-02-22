@@ -1,0 +1,38 @@
+{
+  "name": "uinity-shop",
+  "version": "1.0.0",
+  "description": "E-commerce project for light solutions",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-shop",
+    "php",
+    "js",
+    "gulp",
+    "less",
+    "pug"
+  ],
+  "author": "Rudy-Clark",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-less": "^3.4.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sourcemaps": "^1.5.0",
+    "gulp-uglify": "^1.1.0",
+    "gulp-watch": "^5.0.0",
+    "imagemin-pngquant": "^4.0.0",
+    "main-bower-files": "^2.13.1",
+    "rimraf": "*"
+  },
+  "dependencies": {
+    "bower": "^1.8.2"
+  }
+}

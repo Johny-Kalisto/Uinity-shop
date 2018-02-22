@@ -1,0 +1,30 @@
+{
+  "name": "uinity-shop",
+  "description": "E-commerce project for light solutions",
+  "main": "gulpfile.js",
+  "authors": [
+    "Rudy-Clark"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "e-shop",
+    "php",
+    "js",
+    "gulp",
+    "less",
+    "pug"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0"
+  }
+}
